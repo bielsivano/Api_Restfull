@@ -1,0 +1,6 @@
+com\br\users\dto\FieldError.class
+com\br\users\UsersResource.class
+quarkussocial\domain\model\Users.class
+META-INF\panache-archive.marker
+com\br\users\dto\CreateUserRequest.class
+com\br\users\dto\ResponseError.class
